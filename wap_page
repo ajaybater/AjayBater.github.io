@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+
+<head>
+    <script src="dmxAppConnect/dmxAppConnect.js"></script>
+    <meta charset="UTF-8">
+    <title>Untitled Document</title>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="bootstrap/4/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body is="dmx-app" id="Home" class="style2">
+
+
+
+
+    <header>
+        <h1 class="style1 text-center lead font-weight-bolder text-xl-center">MSc Project: How does maths communication in internet videos affect maths anxiety within Key Stage 3 students?&nbsp;</h1>
+        <h4 class="text-right font-weight-light lead">Ajay Bater</h4>
+    </header>
+    <main>
+
+        <h2>Research Questions:</h2>
+        <p>RQ1: Do maths communication videos have an effect on students’ maths anxiety?
+        <p>
+        </p>
+        <p>RQ2: What features and properties (i.e. length, target audience, topic, format) of the videos have the greatest effect?
+        </p>
+        <p>RQ3: Do maths communication videos have an effect on the attitude and perception of maths within maths-adverse students?</p>
+        <p>
+        </p>
+        </p>
+    </main>
+    <main>
+        <h2>Why?</h2>
+        <p>Maths anxiety is a broad research topic that affects people of every age and demographic across the world. However, research into it has largely been focused on causes and effects of the disorder and few projects have explored potential treatments. Of which, from what I have identified, has largely been focused on the benefit of informal in-person learning, (Thuneberg, Salmi, &amp; Fenyvesi, 2017; Vainikainen, Salmi, &amp; Thuneberg, 2015).
+        <p>
+        </p>
+        <p>If my research is successful, it would provide insight into the potential of informal learning within online spaces, such as YouTube, in treating maths anxiety. I also aim to speculate on what type of videos and their qualities are most effective, if at all. I hope that maths institutions and communicators would find such results beneficial.</p>
+        </p>
+    </main>
+    <main>
+        <h2>Methodology</h2>
+        <p>This will be structured as an intervention study composed of three stages. An initial questionnaire measuring the severity of the participants' maths anxiety, exposure to the maths communication materials and finally the same questionnaire.&nbsp;
+        <p>The questionnaire will be composed of two sections. Firstly, the SAMAS developed by Yáñez-Marquina and Villardón-Gallego (2017), with minor adjustments to accommodate English speaking students. Secondly, there will be a small number of questions from MAPS (Code et al., 2016).&nbsp;</p>
+        <p>The exposure will consist of a variety of videos based around maths and its applications. The programme of videos will be delivered over a number of weeks during the summer holidays. The videos will be sourced from maths communicators and students from the University of Bath Maths Communication module.&nbsp;</p>
+        </p>
+    </main>
+    <main>
+
+        <h2 class="text-left">How you can help:</h2>
+        <p><b>Maths communicators:</b>&nbsp;Please consider providing consent to use your video(s) for the research. Videos would ideally be between 5-15 minutes and should cover topic any topic related to maths and its applications. Videos of any difficulty and target audience are welcome, but may not contain explicit material. Please email me (ajaybater@gmail.com) to send your videos or discuss further details.</p>
+        <p><b>Teachers:</b> Please share this link (soon to be added) to any parent with children who appear adverse to maths. <u><i>Students&nbsp;</i></u><span><i style=""><u>do</u></i><i style="text-decoration-line: underline;"> not need to identify as having maths anxiety to register for this research project.</i> This link simply asks for the parent's email to pre-register for the study. Formal registration and consent forms will be sent in June.</span></p>
+    </main>
+    <main>
+        <h5>Definitions</h5>
+        <p>Maths Anxiety, defined as: “a feeling of tension and apprehension that interferes with maths performance ability, the manipulation of numbers and the solving of mathematical problems in a wide variety of ordinary life and academic situations.” (Khasawneh, 2021). I will be taking it as the umbrella term representing all theorised components such as statistics anxiety, numerical anxiety, maths test anxiety etc.
+        <p><i>Maths-adverse:</i> is a characteristic I am liberally defining to be an avoidance of maths or aversion to interacting with numbers and problems deemed as contingent to it. Particularly due to a general dislike or negative feeling towards maths, which is not necessarily on account of anxiety.&nbsp;</p>
+        </p>
+
+    </main>
+
+    <script src="bootstrap/4/js/popper.min.js"></script>
+    <script src="bootstrap/4/js/bootstrap.min.js"></script>
+</body>
+
+</html>
